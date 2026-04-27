@@ -1,0 +1,111 @@
+h1{
+  background: linear-gradient(rgb(99, 153, 0), rgb(42, 129, 169));
+  color: rgb(255, 255, 255);
+  text-align: center;
+  flex-wrap: wrap;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 0px;
+  margin-top: px;
+  font-size: x-larger;
+}
+nav{
+  background-color: rgb(99, 153, 0);
+  flex-wrap: wrap;
+  border-radius: 12px;
+  padding: 10px;
+  margin: 0px;
+  margin-top: 0px;
+  font-size: large;
+  text-align: center;
+
+}
+
+body{
+  color: white;
+  background-color: rgb(94, 91, 61);
+
+}
+
+a{
+  color: blue;
+  text-decoration: none;
+  
+}
+h2{
+   background-color: darkblue;
+  color: yellow;
+  text-align: center;
+  flex-wrap: wrap;
+  border-radius: 15px;
+  margin: 20px;
+  padding: 15px;
+  margin-top: 10px;
+  font-size: large;
+}
+footer{
+    background: linear-gradient(rgb(99, 153, 0), rgb(42, 129, 169));
+  color: yellow;
+  text-align: center;
+  flex-wrap: wrap;
+  border-radius: 15px;
+  padding: 5px;
+  margin: 0px;
+  margin-top: px;
+  font-size: x-larger;
+  margin-top: 111px;
+}
+.mustaf{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+  columns: darkblue;
+  flex-wrap: wrap;
+
+}
+.cali{
+  background: linear-gradient(rgb(99, 153, 0), rgb(42, 129, 169));
+
+  border-radius: 10px;
+  flex-wrap: wrap;
+  margin: 20px;
+  padding: 12px;
+  font-size: large;
+  color: whitesmoke;
+}
+
+h3{
+  columns: rgb(0, 0, 250);
+}
+
+.Sawiro{
+  display: grid;
+  display: flex;
+  gap: 10px;
+  justify-content: space-evenly;
+}
+.sawir{
+  border-radius: 20px;
+  display: flex;
+  flex-wrap: nowrap;
+
+
+}
+#vid{
+  height: 90vh;
+  width: 100%;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  position: relative;
+  object-fit: cover;
+  display: block;
+}
+
+#nune{
+  border-radius: 50px;
+}
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
